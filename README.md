@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddymuli" alt="teddymuli" /></a> </p>
 
-- 🔭 I’m currently working on **DairyLink**
+- 🔭 I’m currently learning on **Go**
 
-- 🌱 I’m currently learning **NextJs, Django, React, Go, GraphQl**
+- 🌱 I’m currently learning **NextJs, Django, React, Go**
 
 - 👨‍💻 All of my projects are available at [https://teddymuli.vercel.app](https://teddymuli.vercel.app)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tmuli974@gmail.com**
 
-- ⚡ Fun fact **I also make music**
+- ⚡ Fun fact **I make music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
