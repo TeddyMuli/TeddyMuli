@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddymuli" alt="teddymuli" /></a> </p>
 
-- 🔭 I’m currently learning on **Go**
+- 🔭 I’m currently learning **Go**
 
 - 🌱 I’m currently learning **NextJs, Django, React, Go**
 
