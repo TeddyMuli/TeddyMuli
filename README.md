@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Muli</h1>
+<h3 align="center">Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teddymuli&label=Profile%20views&color=0e75b6&style=flat" alt="teddymuli" /> </p>
 
@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently learning **Go**
 
-- 🌱 I’m currently learning **NextJs, Django, React, Go**
-
 - 👨‍💻 All of my projects are available at [https://teddymuli.vercel.app](https://teddymuli.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@tmuli974](https://medium.com/@tmuli974)
 
 - 📫 How to reach me **tmuli974@gmail.com**
 
-- ⚡ Fun fact **I make music**
+- ⚡ Fun fact **Go allows you to return more than one value, Go treats errors as values removing the need for try catch statements.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
